@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj": {}
+    "C:\\Users\\User\\Desktop\\repoMOe\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj": {
+    "C:\\Users\\User\\Desktop\\repoMOe\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repoMOe\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj",
         "projectName": "LINQ.Homework",
-        "projectPath": "C:\\Users\\User\\Desktop\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repoMOe\\Homework LINQ SpecialEdition\\LINQ.Homework\\LINQ.Homework.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Homework LINQ SpecialEdition\\LINQ.Homework\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repoMOe\\Homework LINQ SpecialEdition\\LINQ.Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
